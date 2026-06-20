@@ -61,3 +61,83 @@ Enterprise-inspired secure file storage platform featuring:
 
 Tech:
 Node.js • Express • MongoDB • JWT
+
+High-throughput backend system simulating real-world payment processing.
+
+Features:
+
+• Concurrent Transaction Handling
+• Idempotency
+• Fault Tolerance Concepts
+• Event-Driven Architecture
+• Data Consistency Mechanisms
+
+Tech:
+Node.js • Redis • PostgreSQL • Docker
+
+Personal portfolio showcasing projects, blogs, and technical journey.
+
+Features:
+
+• Responsive Design
+• Project Showcase
+• Technical Blogs
+• Contact Integration
+• Performance Optimized
+
+## 📚 Current Learning Roadmap
+
+✓ Advanced Backend Engineering
+
+✓ Database Internals
+
+✓ Distributed Systems
+
+✓ System Design
+
+✓ AI Engineering
+
+✓ Cloud Native Architecture
+
+✓ Open Source Contributions
+
+## 🎤 Leadership
+
+Vice President Education
+Toastmasters International
+
+🏆 Best Speaker Award Winner
+
+Helping members improve communication,
+leadership, and public speaking skills.
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+## 🤝 Connect With Me
+
+LinkedIn: YOUR_LINKEDIN
+
+Twitter/X: YOUR_X
+
+Email: YOUR_EMAIL
+
+<p align="center">
+
+"First make it work.
+Then make it scalable.
+Then make it elegant."
+
+</p>
