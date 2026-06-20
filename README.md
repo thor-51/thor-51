@@ -126,14 +126,6 @@ leadership, and public speaking skills.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thor-51&theme=tokyo-night"/>
 </p>
 
-## 🤝 Connect With Me
-
-LinkedIn: www.linkedin.com/in/aryanvatsal
-
-Twitter/X: https://x.com/aryanvatsal15
-
-Email: aryanvatsal15@gmail.com
-
 <p align="center">
 
 "First make it work.
