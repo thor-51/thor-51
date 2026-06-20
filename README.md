@@ -49,3 +49,15 @@ OpenAI API • Gemini API • Python ML Ecosystem
 
 WebSockets • WebRTC
 
+## 🌟 Featured Projects
+
+Enterprise-inspired secure file storage platform featuring:
+
+• Authentication & Authorization
+• Secure File Uploads
+• Role-Based Access Control
+• Encryption-Aware Architecture
+• Audit Logging
+
+Tech:
+Node.js • Express • MongoDB • JWT
