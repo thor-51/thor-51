@@ -128,11 +128,11 @@ leadership, and public speaking skills.
 
 ## 🤝 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: www.linkedin.com/in/aryanvatsal
 
-Twitter/X: YOUR_X
+Twitter/X: https://x.com/aryanvatsal15
 
-Email: YOUR_EMAIL
+Email: aryanvatsal15@gmail.com
 
 <p align="center">
 
