@@ -49,68 +49,6 @@ OpenAI API • Gemini API • Python ML Ecosystem
 
 WebSockets • WebRTC
 
-## 🌟 Featured Projects
-
-Enterprise-inspired secure file storage platform featuring:
-
-• Authentication & Authorization
-• Secure File Uploads
-• Role-Based Access Control
-• Encryption-Aware Architecture
-• Audit Logging
-
-Tech:
-Node.js • Express • MongoDB • JWT
-
-High-throughput backend system simulating real-world payment processing.
-
-Features:
-
-• Concurrent Transaction Handling
-• Idempotency
-• Fault Tolerance Concepts
-• Event-Driven Architecture
-• Data Consistency Mechanisms
-
-Tech:
-Node.js • Redis • PostgreSQL • Docker
-
-Personal portfolio showcasing projects, blogs, and technical journey.
-
-Features:
-
-• Responsive Design
-• Project Showcase
-• Technical Blogs
-• Contact Integration
-• Performance Optimized
-
-## 📚 Current Learning Roadmap
-
-✓ Advanced Backend Engineering
-
-✓ Database Internals
-
-✓ Distributed Systems
-
-✓ System Design
-
-✓ AI Engineering
-
-✓ Cloud Native Architecture
-
-✓ Open Source Contributions
-
-## 🎤 Leadership
-
-Vice President Education
-Toastmasters International
-
-🏆 Best Speaker Award Winner
-
-Helping members improve communication,
-leadership, and public speaking skills.
-
 ## 📈 GitHub Analytics
 
 <p align="center">
