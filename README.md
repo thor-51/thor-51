@@ -62,6 +62,11 @@ security, reliability, and performance.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-4285F4?style=for-the-badge&logo=transformers&logoColor=white)
 
+### Testing & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-DC382D?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-DC382D?style=for-the-badge&logo=grafana&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-DC382D?style=for-the-badge&logo=junit&logoColor=white)
+
 ## 📈 GitHub Analytics
 
 <p align="center">
