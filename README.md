@@ -27,11 +27,9 @@ security, reliability, and performance.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Backend
 
@@ -39,6 +37,8 @@ security, reliability, and performance.
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-3178C6?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-3178C6?style=for-the-badge&logo=jwt&logoColor=white)
 
 ### Databases & Caching
 
@@ -54,6 +54,7 @@ security, reliability, and performance.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-FCC624?style=for-the-badge&logo=apache_kafka&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### AI & Machine Learning
 
