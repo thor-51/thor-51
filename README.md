@@ -8,7 +8,7 @@ Backend Engineer • Distributed Systems Enthusiast • AI Engineer
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 </div>
 
 ## 😊 About Me
