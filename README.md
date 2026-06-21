@@ -45,14 +45,12 @@ security, reliability, and performance.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Aerospike](https://img.shields.io/badge/Aerospike-4479A1?style=for-the-badge&logo=aerospike&logoColor=white)
 
 ### DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-FCC624?style=for-the-badge&logo=apachekafka&logoColor=black)
 
