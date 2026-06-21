@@ -75,7 +75,7 @@ security, reliability, and performance.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
