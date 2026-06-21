@@ -7,9 +7,9 @@ Backend Engineer • Distributed Systems Enthusiast • AI Engineer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Learning+Distributed+Systems+and+System+Design;Exploring+AI+Engineering+and+LLMs;Always+Shipping+and+Learning" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
+</div>
 
 ## 😊 About Me
 
