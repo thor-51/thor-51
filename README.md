@@ -35,17 +35,17 @@ security, reliability, and performance.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-3178C6?style=for-the-badge&logo=jwt&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-3178C6?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-3178C6?style=for-the-badge&logo=jwt&logoColor=white)
 
 ### Databases & Caching
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Aerospike](https://img.shields.io/badge/Aerospike-4479A1?style=for-the-badge&logo=aerospike&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-4479A1?style=for-the-badge&logo=aerospike&logoColor=white)
 
 ### DevOps & Cloud
 
@@ -53,14 +53,14 @@ security, reliability, and performance.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FCC624?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-FCC624?style=for-the-badge&logo=apachekafka&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-FCC624?style=for-the-badge&logo=apachekafka&logoColor=black)
 
 ### AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-4285F4?style=for-the-badge&logo=transformers&logoColor=white)
 
 ## 📈 GitHub Analytics
 
