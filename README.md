@@ -64,8 +64,8 @@ security, reliability, and performance.
 
 ### Testing & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-DC382D?style=for-the-badge&logo=prometheus&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-DC382D?style=for-the-badge&logo=mockito&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-DC382D?style=for-the-badge&logo=grafana&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-DC382D?style=for-the-badge&logo=junit&logoColor=white)
 
 ## 📈 GitHub Analytics
 
