@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aryan Vatsal 👋</h1>
+<h1 align="center">Hi, I'm Aryan Vatsal </h1>
 <h3 align="center">
 Backend Engineer • Distributed Systems Enthusiast • AI Engineer
 </h3>
@@ -7,7 +7,7 @@ Backend Engineer • Distributed Systems Enthusiast • AI Engineer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Learning+Distributed+Systems+and+System+Design;Exploring+AI+Engineering+and+LLMs;Always+Shipping+and+Learning" />
 </p>
 
-## 😊 About Me
+## About Me
 
 I'm a Computer Science student at VIT Vellore passionate about building
 large-scale backend systems and AI-powered applications.
@@ -23,7 +23,7 @@ Currently focused on:
 I enjoy solving real-world engineering problems involving scalability,
 security, reliability, and performance.
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
