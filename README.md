@@ -5,7 +5,6 @@
 *Curious about the journey of a request — from a click on a screen to servers across the world.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thor-51&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/thor-51?style=for-the-badge&color=blueviolet&label=FOLLOWERS)
 
 </div>
 
@@ -126,16 +125,6 @@ A Python reimplementation of `grep`, extended with extra features.
 
 <br>
 
-## 📫 Connect
-
-<div align="center">
-
-[Portfolio](https://github.com/thor-51/portfolio) · LinkedIn · Twitter/X
-<!-- swap in real links -->
-
-</div>
-
-<br>
 
 <div align="center">
 
