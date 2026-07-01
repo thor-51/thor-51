@@ -1,3 +1,54 @@
+# Hey, I'm Aryan 👋
+
+Curious about the journey of a request — from a click on a screen to servers across the world.
+
+- 🎓 CS student @ **VIT Vellore**
+- 🛠️ Building **backend & distributed systems**, with a growing focus on **AI engineering**
+- 🔐 Currently deep in **secure-file-vault** — encrypted storage, RBAC, audit logging
+- 📡 Also shipped a **real-time observability stack** (Grafana + Prometheus + Loki) for Node apps
+- 🌱 Learning how to take projects from "it works" to "people actually use it"
+- 💬 Ask me about system design, backend architecture, or LLM fine-tuning
+
+---
+
+### 🔭 What I'm building
+
+**[secure-file-vault](https://github.com/thor-51/secure-file-vault)**
+Encrypted S3-backed file storage with JWT auth, role-based access control, deduplication, and full audit logging.
+
+**[Real-Time-Observability-Platform](https://github.com/thor-51/Real-Time-Observability-Platform)**
+A monitoring stack for Node.js apps — Grafana, Prometheus, and Loki wired together for live metrics and logs.
+
+**[Ride-Booking-Platform](https://github.com/thor-51/Ride-Booking-Platform)**
+Full-stack, Uber-style ride booking app with real-time ride management.
+
+**[AdaLoRA-Bench](https://github.com/thor-51/AdaLoRA-Bench)**
+Benchmarking parameter-efficient fine-tuning methods for LLMs.
+
+**[Grep](https://github.com/thor-51/Grep)**
+A Python reimplementation of `grep`, extended with extra features.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:** JavaScript · Python · Java · C++
+**Backend:** Node.js · Express
+**Data:** PostgreSQL · MongoDB · Redis
+**Infra:** Docker · Kubernetes · Kafka
+**AI/ML:** OpenAI API · fine-tuning & benchmarking
+
+---
+
+### 📫 Connect
+
+[Portfolio](https://github.com/thor-51/portfolio) · LinkedIn · Twitter/X
+<!-- swap in real links -->
+
+---
+
+<sub>⭐️ If something here is useful to you, a star means a lot.</sub>
+
 <h1 align="center">Hi, I'm Aryan Vatsal </h1>
 <h3 align="center">
 Backend Engineer • Distributed Systems Enthusiast • AI Engineer
