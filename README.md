@@ -25,7 +25,7 @@
 
 A production-style, event-driven payment transfer system built with **Java 21** and **Spring Boot 3**. Transfers hit a REST API, get published to **Kafka**, and are processed asynchronously — debiting/crediting accounts with **Redis-backed idempotency**, exponential-backoff retry, dead-lettering, and full **Prometheus/Grafana** observability.
 
-- ⚡ Load-tested at **577 TPS** with 0.00% error rate (p99 latency: 140.6ms)
+- ⚡ Load-tested at **577 TPS** with 0.00% error rate (p99 latency: 140.6ms, can handle ~49M transactions/day)
 - 🔒 Deadlock-safe account locking, atomic idempotency via Redis `SETNX`
 - 📊 9-panel auto-provisioned Grafana dashboard + structured JSON logging (ELK-ready)
 - 🧪 40 tests across unit, slice, and Testcontainers-backed integration suites
@@ -131,17 +131,6 @@ A Python reimplementation of `grep`, extended with extra features.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thor-51&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-</div>
-
-<br>
-
-## 📫 Connect
-
-<div align="center">
-
-[Portfolio](https://github.com/thor-51/portfolio) · LinkedIn · Twitter/X
-<!-- swap in real links -->
 
 </div>
 
