@@ -30,72 +30,6 @@ A Python reimplementation of `grep`, extended with extra features.
 
 ---
 
-### 🧰 Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**AI/ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 📫 Connect
-
-[Portfolio](https://github.com/thor-51/portfolio) · LinkedIn · Twitter/X
-<!-- swap in real links -->
-
----
-
-<sub>⭐️ If something here is useful to you, a star means a lot.</sub>
-
-<h1 align="center">Hi, I'm Aryan Vatsal </h1>
-<h3 align="center">
-Backend Engineer • Distributed Systems Enthusiast • AI Engineer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Learning+Distributed+Systems+and+System+Design;Exploring+AI+Engineering+and+LLMs;Always+Shipping+and+Learning" />
-</p>
-
-## About Me
-
-I'm a Computer Science student at VIT Vellore passionate about building
-large-scale backend systems and AI-powered applications.
-
-Currently focused on:
-
-• Distributed Systems
-• System Design
-• Backend Engineering
-• AI Engineering
-• Cloud Infrastructure
-
-I enjoy solving real-world engineering problems involving scalability,
-security, reliability, and performance.
-
 ## Tech Stack
 
 ### Languages
@@ -139,11 +73,6 @@ security, reliability, and performance.
 ![Grafana](https://img.shields.io/badge/Grafana-DC382D?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thor-51&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thor-51&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&include_all_commits=true&count_private=true"/>
