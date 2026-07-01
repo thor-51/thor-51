@@ -1,6 +1,15 @@
+<div align="center">
+
 # Hey, I'm Aryan 👋
 
-Curious about the journey of a request — from a click on a screen to servers across the world.
+*Curious about the journey of a request — from a click on a screen to servers across the world.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=thor-51&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/thor-51?style=for-the-badge&color=blueviolet&label=FOLLOWERS)
+
+</div>
+
+<br>
 
 - 🎓 CS student @ **VIT Vellore**
 - 🛠️ Building **backend & distributed systems**, with a growing focus on **AI engineering**
@@ -9,83 +18,131 @@ Curious about the journey of a request — from a click on a screen to servers a
 - 🌱 Learning how to take projects from "it works" to "people actually use it"
 - 💬 Ask me about system design, backend architecture, or LLM fine-tuning
 
----
+<br>
 
-### 🔭 What I'm building
+## 🔭 What I'm Building
 
-**[secure-file-vault](https://github.com/thor-51/secure-file-vault)**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🔐 secure-file-vault](https://github.com/thor-51/secure-file-vault)**
 Encrypted S3-backed file storage with JWT auth, role-based access control, deduplication, and full audit logging.
 
-**[Real-Time-Observability-Platform](https://github.com/thor-51/Real-Time-Observability-Platform)**
+</td>
+<td width="50%" valign="top">
+
+**[📡 Real-Time-Observability-Platform](https://github.com/thor-51/Real-Time-Observability-Platform)**
 A monitoring stack for Node.js apps — Grafana, Prometheus, and Loki wired together for live metrics and logs.
 
-**[Ride-Booking-Platform](https://github.com/thor-51/Ride-Booking-Platform)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🚗 Ride-Booking-Platform](https://github.com/thor-51/Ride-Booking-Platform)**
 Full-stack, Uber-style ride booking app with real-time ride management.
 
-**[AdaLoRA-Bench](https://github.com/thor-51/AdaLoRA-Bench)**
+</td>
+<td width="50%" valign="top">
+
+**[🧪 AdaLoRA-Bench](https://github.com/thor-51/AdaLoRA-Bench)**
 Benchmarking parameter-efficient fine-tuning methods for LLMs.
 
-**[Grep](https://github.com/thor-51/Grep)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🔍 Grep](https://github.com/thor-51/Grep)**
 A Python reimplementation of `grep`, extended with extra features.
 
----
+</td>
+<td width="50%" valign="top">
 
-## Tech Stack
+</td>
+</tr>
+</table>
 
-### Languages
+<br>
+
+## 🧰 Tech Stack
+
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Backend
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-3178C6?style=for-the-badge&logo=jwt&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-3178C6?style=for-the-badge&logo=django&logoColor=white)
 
-### Databases & Caching
+**Databases & Caching**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Cloud
+**DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3178C6?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-FCC624?style=for-the-badge&logo=apachekafka&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### AI & Machine Learning
+**AI & Machine Learning**
 
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-4285F4?style=for-the-badge&logo=transformers&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Testing & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-DC382D?style=for-the-badge&logo=prometheus&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-FCC624?style=for-the-badge&logo=mockito&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-DC382D?style=for-the-badge&logo=grafana&logoColor=white)
+**Testing & Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+
+<br>
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thor-51&theme=tokyo-night"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thor-51&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thor-51&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-"First make it work.
-Then make it scalable.
-Then make it elegant."
+</div>
 
-</p>
+<br>
+
+## 📫 Connect
+
+<div align="center">
+
+[Portfolio](https://github.com/thor-51/portfolio) · LinkedIn · Twitter/X
+<!-- swap in real links -->
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"First make it work.*
+*Then make it scalable.*
+*Then make it elegant."*
+
+⭐️ If something here is useful to you, a star means a lot.
+
+</div>
