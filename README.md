@@ -127,9 +127,6 @@ A Python reimplementation of `grep`, extended with extra features.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thor-51&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thor-51&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=thor-51&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 </div>
