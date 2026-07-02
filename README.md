@@ -21,9 +21,9 @@
 
 ## 🔭 What I'm Building
 
-### 💸 [FlowPay](https://github.com/thor-51/FlowPay) — Featured Project
+### 💸 [FlowPay](https://github.com/thor-51/FlowPay) - Featured Project
 
-A production-style, event-driven payment transfer system built with **Java 21** and **Spring Boot 3**. Transfers hit a REST API, get published to **Kafka**, and are processed asynchronously — debiting/crediting accounts with **Redis-backed idempotency**, exponential-backoff retry, dead-lettering, and full **Prometheus/Grafana** observability.
+A production-style, event-driven payment transfer system built with **Java 21** and **Spring Boot 3**. Transfers hit a REST API, get published to **Kafka**, and are processed asynchronously - debiting/crediting accounts with **Redis-backed idempotency**, exponential-backoff retry, dead-lettering, and full **Prometheus/Grafana** observability.
 
 - ⚡ Load-tested at **577 TPS** with 0.00% error rate (p99 latency: 140.6ms, can handle ~49M transactions/day)
 - 🔒 Deadlock-safe account locking, atomic idempotency via Redis `SETNX`
@@ -104,7 +104,7 @@ A Python reimplementation of `grep`, extended with extra features.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+/*![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)*/
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
