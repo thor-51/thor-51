@@ -12,7 +12,7 @@
 
 - 🎓 CS student @ **VIT Vellore**
 - 🛠️ Building **backend & distributed systems**, with a growing focus on **AI engineering**
-- 🔐 Currently deep in **secure-file-vault** — encrypted storage, RBAC, audit logging
+- 🔐 Currently deep in **secure-file-vault** - encrypted storage, RBAC, audit logging
 - 📡 Also shipped a **real-time observability stack** (Grafana + Prometheus + Loki) for Node apps
 - 🌱 Learning how to take projects from "it works" to "people actually use it"
 - 💬 Ask me about system design, backend architecture, or LLM fine-tuning
