@@ -2,7 +2,7 @@
 
 # Hey, I'm Aryan 👋
 
-*Curious about the journey of a request — from a click on a screen to servers across the world.*
+*Curious about the journey of a request - from a click on a screen to servers across the world.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thor-51&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
